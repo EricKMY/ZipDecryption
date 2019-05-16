@@ -1,4 +1,4 @@
 
-OS project: ZIP Encryption
+OS project: ZIP Decryption
 
 member: EricKuan
